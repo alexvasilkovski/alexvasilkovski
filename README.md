@@ -50,4 +50,4 @@ programming languages i cannot write hello world in:
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
  
  and every other one...
-  
+ 
