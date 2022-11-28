@@ -1,8 +1,11 @@
 
-My Languages:
-
-C#, Bash, Lua, Python and Haskell...
-
-My Projects:
-
-[Zip](https://github.com/zipbrowser/zip) - A minimal, chromium-based browser for performance and simplicity.
+## Github Statistics
+<a href="#"
+  <img align="center" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ihatewindows" />
+</a><br /><br />
+<a href="https://github.com/lucatolton">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ihatewindows&show_icons=false&count_private=true" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihatewindows&layout=compact&show_icons=false&count_private=true" />
+</a>
