@@ -2,7 +2,7 @@
 <h3 align="center">A student studying Computer Science, Law and Business...</h3>
 
 
-<p align="center">🌱 I’m currently learning <b>Linux, C# and JS</b></p>
+<p align="center">🌱 I’m currently learning <b>Linux & C#</b></p>
 <p align="center">📫 Discord: <b>qazer#2687</b></p>
 
 
